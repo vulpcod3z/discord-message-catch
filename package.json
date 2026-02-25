@@ -1,0 +1,28 @@
+{
+  "name": "discord-message-catch",
+  "version": "1.0.0",
+  "description": "Catches messages from a Discord channel in real-time.",
+  "keywords": [
+    "node",
+    "discord",
+    "discord.js"
+  ],
+  "homepage": "https://github.com/vulpcod3z/discord-message-catch#readme",
+  "bugs": {
+    "url": "https://github.com/vulpcod3z/discord-message-catch/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vulpcod3z/discord-message-catch.git"
+  },
+  "license": "GPL-3.0",
+  "author": "vulpcod3z",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "discord.js": "^14.25.1"
+  }
+}
