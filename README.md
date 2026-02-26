@@ -6,7 +6,8 @@
 ## Installation
 1. Install Node.js w/NPM
 2. Clone repo
-3. Create `.env` file with following info:
+3. Run `npm i` to install dependencies
+4. Create `.env` file with following info:
    - `BOT_TOKEN` - Discord token id for bot
    - `WATCH_CH` - Discord channel id of channel to watch
    - `LOG_FILE` - name/path of file for logging
